@@ -1,6 +1,8 @@
 # Welcome To My Profile
 ![Web Developer](https://scontent.frjh5-1.fna.fbcdn.net/v/t39.30808-6/315217445_114039864846375_5319400694054418339_n.jpg?stp=dst-jpg_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_ohc=nSxRud6owTAAX9fkxwS&_nc_ht=scontent.frjh5-1.fna&oh=00_AfBPvlA1UX5KVmAqb267BcuXZ3lcgfKCE0EI_qYdrnFh9g&oe=639E7290)
 
+![github banner](https://user-images.githubusercontent.com/103103743/222910770-fd47ce0e-1db3-4f9d-8cd9-7d5e312bc73a.gif)
+
 ### Hi There, <br>
 <b>My name is MD.JAHID HASAN. I'm studying in Dhaka Polytechnic Institute at Computer Science and Technology, Dhaka-Bangladesh. 
 I am a Web Developer and Data entry expert. I'm very passionate and dedicated to my work With 2years experience as a professional Web Developer. I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration. I'm always hungry to learn new things in web development.</b><br>
